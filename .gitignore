@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Banco local criado pela aplicação
+*.db
+
+# Ambiente e editor
+.env
+.streamlit/secrets.toml
+.vscode/
+.idea/
+.DS_Store
